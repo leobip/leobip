@@ -55,7 +55,8 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 
 <h3 align="center">📌 Methodologies & Management</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-555555?style=for-the-badge&logo=devops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agile-28A745?style=for-the-badge&logo=atlassian&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitOps-FF3366?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/Prince2-2E5C9A?style=for-the-badge&logo=readthedocs&logoColor=white"/>
