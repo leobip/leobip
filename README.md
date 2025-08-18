@@ -48,9 +48,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 - ✨ Motto: *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* – John Woods  
 
 ---
-
-
-Here are some ideas to get you started:
+...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
