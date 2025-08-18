@@ -20,7 +20,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 
 ## 🛠️ Tech Stack  
 
-### 🖥️ Languages & Scripting
+<h3 align="center">🖥️ Languages & Scripting</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
@@ -29,7 +29,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
-### ☁️ DevOps & Cloud  
+<h3 align="center">☁️ DevOps & Cloud</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
@@ -39,7 +39,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 </div>
 
-### 🔧 CI/CD & Tools  
+<h3 align="center">🔧 CI/CD & Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -53,7 +53,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   <img src="https://img.shields.io/badge/HashiCorp_Vault-555555?style=for-the-badge&logo=vault&logoColor=white"/>
 </div>
 
-### 📌 Methodologies & Management  
+<h3 align="center">📌 Methodologies & Management</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitOps-FF3366?style=for-the-badge&logo=git&logoColor=white"/>
