@@ -44,7 +44,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 
 ## 🌍 Let’s Connect!  
 - 💼 GitHub: [github.com/leobip](https://github.com/leobip)  
-- 🔗 LinkedIn: [linkedin.com/in/leonciolopez](https://www.linkedin.com/in/leoncio-lópez)  
+- 🔗 LinkedIn: [linkedin.com/in/leonciolopez](https://www.linkedin.com/in/leoncio-lópez-00527474/)  
 - 📧 Email: leonciolopez@example.com  
 - 💬 Always open to discussions about **DevOps, backend development, and tech culture**  
 - ✨ Motto: *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* – John Woods   
