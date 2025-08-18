@@ -22,14 +22,14 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 
 <p align="center">
 
-### 🖥️ Languages & Scripting  
+<!-- 🖥️ Languages & Scripting -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 
-### ☁️ DevOps & Cloud  
+<!-- ☁️ DevOps & Cloud -->  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white"/>
@@ -37,7 +37,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   <img src="https://img.shields.io/badge/ArgoCD-FE4D00?style=for-the-badge&logo=argo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"/>
 
-### 🔧 CI/CD & Tools  
+<!-- 🔧 CI/CD & Tools -->  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
@@ -49,7 +49,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
   <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white"/>
 
-### 📌 Methodologies & Management  
+<!-- 📌 Methodologies & Management -->  
   <img src="https://img.shields.io/badge/DevOps-000000?style=for-the-badge&logo=devops&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitOps-FF3366?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
