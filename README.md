@@ -72,14 +72,35 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 - ✨ Motto: *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* – John Woods   
 
 ---
-...
-
 - 🔭 I’m currently working on ...
+  - 🚀 **GoWatchtower** – a Kubernetes-native library in Golang  
+    Cluster metrics at a glance — powered by Go, Prometheus, Grafana & Kafka.  
+    - Collects data from the Operator’s native `/metrics` endpoint  
+    - Streams metrics in JSON through Kafka for external consumers  
+    - Full observability pipeline with Prometheus → Grafana  
+    - Designed to be **portable, lightweight, and easy to install**  
+    - Future plans: Control interface (UI/CLI) + installer for seamless setup  
+
 - 🌱 I’m currently learning ...
+  - 🖥️ C# (desktop & backend dev)  
+  - 🍏 Swift (exploring iOS/macOS apps)  
+
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+  - Open-source **DevOps tools & operators**  
+  - Cloud-native observability and monitoring projects  
+  - Any initiative mixing **automation + creativity** 🚀  
+
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - ⚙️ DevOps & GitOps  
+  - 🐳 Containers, Kubernetes & Operators  
+  - 🔐 HashiCorp Vault & secrets management  
+  - 🎛️ Observability pipelines (Prometheus, Grafana, Kafka)  
+
+- 📫 How to reach me:  
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+  - ✉️ **Email:** your@email.com  
+
+- ⚡ Fun fact:  
+  - I have a **personal office that looks like a geek museum** 🕹️ — from Star Wars ships and Iron Man figures to Lego structures and even a scale model of the *Mach 5*.  
+  - I believe **technology and creativity fuel each other** — whether in code, comics, or music. 🎶
+
