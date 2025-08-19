@@ -66,8 +66,8 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 
 ## 🌍 Let’s Connect!  
 - 💼 GitHub: [github.com/leobip](https://github.com/leobip)  
-- 🔗 LinkedIn: [linkedin.com/in/leonciolopez](https://www.linkedin.com/in/leoncio-lópez-00527474/)  
-- 📧 Email: leonciolopez@example.com  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leoncio-lópez-00527474/)  
+- 📧 Email: leobip27@gmail.com  
 - 💬 Always open to discussions about **DevOps, backend development, and tech culture**  
 - ✨ Motto: *“Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.”* – John Woods   
 
@@ -95,10 +95,6 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   - 🐳 Containers, Kubernetes & Operators  
   - 🔐 HashiCorp Vault & secrets management  
   - 🎛️ Observability pipelines (Prometheus, Grafana, Kafka)  
-
-- 📫 How to reach me:  
-  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-  - ✉️ **Email:** your@email.com  
 
 - ⚡ Fun fact:  
   - I have a **personal office that looks like a geek museum** 🕹️ — from Star Wars ships and Iron Man figures to Lego structures and even a scale model of the *Mach 5*.  
