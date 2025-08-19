@@ -65,7 +65,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 ---
 
 ## 🌍 Let’s Connect!  
-- [GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white): [github.com/leobip](https://github.com/leobip)  
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]: [github.com/leobip](https://github.com/leobip)  
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)] : [linkedin.com/in/leonciolopez](https://www.linkedin.com/in/leoncio-lópez-00527474/)  
 - 📧 Email: leobip27@gmail.com  
 - 💬 Always open to discussions about **DevOps, backend development, and tech culture**  
@@ -100,3 +100,5 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
   - I have a **personal office that looks like a geek museum** 🕹️ — from Star Wars ships and Iron Man figures to Lego structures and even a scale model of the *Mach 5*.  
   - I believe **technology and creativity fuel each other** — whether in code, comics, or music. 🎶
 
+---
+🌟 If you like my projects, don’t forget to ⭐ star the repo or connect with me on LinkedIn!  
