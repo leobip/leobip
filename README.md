@@ -82,10 +82,10 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
     - Designed to be **portable, lightweight, and easy to install**  
     - Future plans: Control interface (UI/CLI) + installer for seamless setup
   
-  - ⚓ **DevFleet** – A local end-to-end DevOps/CI environment  
+  - ⚓ **FullDevCicle** – A local end-to-end DevOps/CI environment  
     Ship faster with a complete local development fleet:  
     - Code quality analysis with **SonarQube**  
-    - Repo & CI with **GitHub Actions** (or GitLab CI)  
+    - Repo & CI with **GitHub Actions**  
     - Example app build with **Flet**, targeting Windows & macOS  
     - **Harbor/Nexus** as artifact & image registry  
     - Local **Kubernetes cluster** (Minikube/Kind) for testing  
