@@ -74,7 +74,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
 ---
 - 🔭 I’m currently working on ...
   
-  - 🚀 **GoWatchtower** – a Kubernetes-native library in Golang  
+  - 🚀 [**GoWatchtower**](https://github.com/leobip/simple-operator) – a Kubernetes-native library in Golang  
     Cluster metrics at a glance — powered by Go, Prometheus, Grafana & Kafka.  
     - Collects data from the Operator’s native `/metrics` endpoint  
     - Streams metrics in JSON through Kafka for external consumers  
@@ -82,7 +82,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
     - Designed to be **portable, lightweight, and easy to install**  
     - Future plans: Control interface (UI/CLI) + installer for seamless setup
   
-  - ⚓ **FullDevCicle** – A local end-to-end DevOps/CI environment  
+  - ⚓ [**FullDevCicle**](https://github.com/leobip/LocalDevApps) – A local end-to-end DevOps/CI environment  
     Ship faster with a complete local development fleet:  
     - Code quality analysis with **SonarQube**  
     - Repo & CI with **GitHub Actions**  
@@ -92,7 +92,7 @@ I thrive at the intersection of **programming + DevOps + culture**, helping team
     - **Vault** for secret management  
     - **ELK/EFK stack** + **Grafana/Jaeger** for observability  
     - Portable setup with `docker-compose` or Helm charts  
-    - Future plans: add extensible modules for DBs, message brokers, and cloud connectors
+    - Future plans: add extensible modules for DBs, message brokers, and cloud connectors  
 
 - 🌱 I’m currently learning ...
   - 🖥️ C# (desktop & backend dev)  
